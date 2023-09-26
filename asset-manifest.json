@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/AdharvM24/portpolios2.git/static/css/main.fbc00891.css",
+    "main.js": "/AdharvM24/portpolios2.git/static/js/main.c61de5a4.js",
+    "static/media/amm.png": "/AdharvM24/portpolios2.git/static/media/amm.2350c15fc3e04fe28ef2.png",
+    "index.html": "/AdharvM24/portpolios2.git/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.c61de5a4.js"
+  ]
+}
